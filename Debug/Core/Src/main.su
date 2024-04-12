@@ -1,0 +1,16 @@
+../Core/Src/main.c:51:5:_write	24	static
+../Core/Src/main.c:78:6:sendData	16	static
+../Core/Src/main.c:88:6:HAL_UARTEx_RxEventCallback	16	static
+../Core/Src/main.c:102:6:Insulation_Monitoring_ON	8	static
+../Core/Src/main.c:116:6:Self_Test_ON	8	static
+../Core/Src/main.c:130:6:Self_Test_OFF	8	static
+../Core/Src/main.c:144:6:Insulation_Resistance	8	static
+../Core/Src/main.c:158:6:Insulation_Monitoring_OFF	8	static
+../Core/Src/main.c:172:6:Isolation_Monitoring_OFF_BY_EM	8	static
+../Core/Src/main.c:191:5:main	48	static
+../Core/Src/main.c:308:6:SystemClock_Config	96	static
+../Core/Src/main.c:351:13:MX_USART4_UART_Init	8	static
+../Core/Src/main.c:386:13:MX_USART5_UART_Init	8	static
+../Core/Src/main.c:419:13:MX_DMA_Init	16	static
+../Core/Src/main.c:437:13:MX_GPIO_Init	56	static
+../Core/Src/main.c:508:6:Error_Handler	8	static,ignoring_inline_asm
